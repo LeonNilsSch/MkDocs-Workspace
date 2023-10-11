@@ -1,4 +1,4 @@
-# THATS MY MKDOCS WORKSPACE
+## THATS MY MKDOCS WORKSPACE
 
 This workspace is for writing down many notes, Project-Documentations and other stuff that belongs to my journey of learning how to be a Computing Scientist.
 
@@ -6,9 +6,14 @@ Its created in my own personal style so have fun reading it and getting confront
 
 ---
 
-# **If u like to create something like this for your own use, here is a Tutorial from the Mkdocs Website.**
+## **If u like to create something like this for your own use, here is a Tutorial from the Mkdocs Website.**
 
-# Getting Started with MkDocs
+
+---
+
+
+
+## Getting Started with MkDocs
 
 An introductory tutorial!
 
